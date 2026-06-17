@@ -1,0 +1,9 @@
+git init
+git clone
+git add .
+git commit -m "Initial Commit"
+git push origin main
+git pull origin main
+git branch
+git checkout
+git merge
